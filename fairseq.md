@@ -145,4 +145,4 @@ predicted_ids = torch.argmax(logits, dim=-1)
 transcription = processor.batch_decode(predicted_ids)[0]
 ```
 
-There's also an example of the implemented system in this [script](system/system.py).
+There's also an example of the implemented system in this [script](system/emergency_detection.py).
