@@ -1,4 +1,6 @@
 # Automatic-Emergency-Detection-in-Naval-VHF-Transmissions
+![Shipwreck accident, ship run aground sink in ocean](https://image.freepik.com/free-vector/shipwreck-accident-ship-run-aground-sink-ocean_33099-2210.jpg)
+
 ## Master's Thesis
 
 Jonathan Gildevall & Niclas Johansson
