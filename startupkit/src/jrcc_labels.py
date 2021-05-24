@@ -13,7 +13,7 @@ import os
 import pandas as pd
 
 
-def main():
+if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("tsv")
     parser.add_argument("csv")
@@ -45,5 +45,3 @@ def main():
             )
 
 
-if __name__ == "__main__":
-    main()
